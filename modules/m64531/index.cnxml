@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Long Desc test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64531</md:content-id>
+  <md:title>Long Desc test</md:title>
+  <md:abstract/>
+  <md:uuid>315eea6e-1898-4925-8024-5be457246c8b</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-220"><media id="eip-idm1388625936" alt="An image comparing the functions of the parasympathetic nervous system to the central nervous system." longdesc="35-4-2-longdesc.txt">
+	   
+  <image mime-type="image/jpeg" src="../../media/Figure_35_04_02.jpg"/>	 
+</media>
+
+<media id="eip-idm218242960" alt="An image comparing the autonomic functions of the parasympathetic nervous system to the central nervous system." longdesc="35-4-1-longdesc.txt">
+	   
+  <image mime-type="image/png" src="../../media/Figure_35_04_01f.png"/>	 
+</media>
+
+
+<media id="eip-idm1044738256" alt="dog on couch" longdesc="dog-longdesc.txt">
+	   
+  <image mime-type="image/jpeg" src="../../media/image1.jpg"/>	 
+</media></section></content>
+
+</document>
